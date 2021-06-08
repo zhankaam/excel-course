@@ -1,0 +1,30 @@
+{
+  "name": "excel-course",
+  "version": "1.0.0",
+  "description": "Pure JS course",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhankaam/excel-course.git"
+  },
+  "keywords": [
+    "js",
+    "JavaScript",
+    "excel"
+  ],
+  "author": "Zhanat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhankaam/excel-course/issues"
+  },
+  "homepage": "https://github.com/zhankaam/excel-course#readme",
+  "devDependencies": {
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.2"
+  }
+}
